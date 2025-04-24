@@ -1,4 +1,4 @@
-## mastering git
+## practising git
 
 adding random text in feature-branch
-mastering git `john commit`
+practisting git `marie commit`
